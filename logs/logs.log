@@ -1,0 +1,8 @@
+{TCP Server ::1:51143 Connected}
+{TCP Server: Data saved in database}
+{TCP Server received data: {"name":"Rudy","age":33}}
+{TCP Server: response sent to the client}
+{Client: Server Response: Data saved in database}
+{Client: connection closed}
+{TCP Server ::1:51143 Connection closed}
+
